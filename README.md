@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm [Your Name]
+y# Hi there! 👋 I'm Henry Carmenate
 
 ## 🛠️ Full Stack Developer | AI Enthusiast
 
-Welcome to my GitHub page! I'm a full stack developer with over 10 years of experience specializing in **PHP**, **JavaScript**, and **MySQL** with **Laravel** and **Vue.js**. I’m passionate about building scalable, efficient web applications and always exploring the latest in AI and web technologies.
+Welcome to my GitHub page! I'm a full-stack developer with over 10 years of experience specializing in **PHP**, **JavaScript**, and **MySQL** with **Laravel** and **Vue.js**. I’m passionate about building scalable, efficient web applications and always exploring the latest in AI and web technologies.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub page! I'm a full stack developer with over 10 years of expe
 
 - 💼 **Experience**: 10+ years in full stack web development
 - 🌎 **Languages**: English & Spanish
-- 🧠 **Learning Focus**: AI integration, advanced full stack practices
+- 🧠 **Learning Focus**: AI integration, advanced full-stack practices
 - 📈 **Skills**: PHP, JavaScript, MySQL, Laravel, Vue.js
 
 ---
@@ -39,8 +39,7 @@ Here’s a quick look at the main tools and technologies I use:
 ### 📫 Let's Connect!
 
 I'm always open to collaboration or just chatting about new ideas! Connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/henry-carmenate-8a48b276/))
 
 ---
 
