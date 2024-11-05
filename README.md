@@ -39,7 +39,7 @@ Here’s a quick look at the main tools and technologies I use:
 ### 📫 Let's Connect!
 
 I'm always open to collaboration or just chatting about new ideas! Connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/henry-carmenate-8a48b276/)
+- [LinkedIn](https://www.linkedin.com/in/henry-carmenate-8a48b276/)
 
 ---
 
