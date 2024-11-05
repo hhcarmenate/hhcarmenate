@@ -1,4 +1,4 @@
-y# Hi there! 👋 I'm Henry Carmenate
+# Hi there! 👋 I'm Henry Carmenate
 
 ## 🛠️ Full Stack Developer | AI Enthusiast
 
