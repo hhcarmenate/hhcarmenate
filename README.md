@@ -43,10 +43,4 @@ I'm always open to collaboration or just chatting about new ideas! Connect with 
 
 ---
 
-<div align="center">
-   
-   ![hhcarmenate's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhcarmenate&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)
-   
-</div>
-
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to connect or collaborate!
