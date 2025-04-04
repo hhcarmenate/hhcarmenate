@@ -19,7 +19,7 @@ Welcome to my GitHub page! I'm a full-stack developer with over 10 years of expe
 
 Here are some of the projects I'm proud of:
 
-- **Celebrate it with me (https://github.com/Celebrate-it-with-me/repositories)**: Personal Saas created to manage events, handling "Save the Date", RSVP, and other features.
+- **Celebrate it with me (https://github.com/orgs/Celebrate-it-with-me/repositories)**: Personal Saas created to manage events, handling "Save the Date", RSVP, and other features.
 - **[Project 2](link-to-project)**: Brief description of the project.
 - **[Project 3](link-to-project)**: Brief description of the project.
 
