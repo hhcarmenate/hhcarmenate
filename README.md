@@ -28,7 +28,7 @@ Here are some of the projects I'm proud of:
 Here’s a quick look at the main tools and technologies I use:
 
 - **Frontend**: HTML, CSS, JavaScript, Vue.js
-- **Backend**: PHP, Laravel, Python, Django
+- **Backend**: PHP, Laravel, Python
 - **Database**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, Docker, VS Code, Postman
 
